@@ -1,3 +1,11 @@
+#git add --all
+#git commit -m “Version 1.0.1”
+#git remote add origin https://github.com/RatnadeepParya/FitClub
+#git remote -v
+#git push -u origin master
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
