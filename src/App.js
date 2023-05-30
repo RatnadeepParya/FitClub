@@ -1,7 +1,10 @@
 import './App.css';
 import Hero from './components/Hero/Hero';
+import Plans from './components/Plans/Plans';
 import Programs from './components/Programs/Programs';
 import Reasons from './components/Reasons/Reasons';
+import Join from './components/Join/Join';
+import Testimonials from './components/Testimonials/Testimonials';
 
 function App() {
   return (
@@ -9,6 +12,9 @@ function App() {
           <Hero/>
           <Programs/>
           <Reasons/>
+          <Plans/>
+          <Testimonials/>
+          <Join/>
     </div>
   );
 }
